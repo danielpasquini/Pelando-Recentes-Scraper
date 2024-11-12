@@ -2,7 +2,7 @@
 
 Este aplicativo extrai promoções da página Recentes do site Pelando e as exibe classificadas pela taxa de crescimento.
 
-## Setup Manual
+## Setup
 
 1. Clone este repositório:
 git clone [https://github.com/danielpasquini/Pelando-Recentes-Scraper.git](https://github.com/danielpasquini/Pelando-Recentes-Scraper.git)
