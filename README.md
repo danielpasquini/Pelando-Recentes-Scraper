@@ -15,4 +15,4 @@ python -m venv .venv
 pip install -r requirements.txt
 
 4. Build o executável:
-pyinstaller --noconfirm --windowed --onefile --strip --exclude-module test --exclude-module unittest --exclude-module tkinter --icon="<local do pelando.ico>" "<local do pelandorecentes.py>"
+pyinstaller --noconfirm --windowed --onefile --strip --exclude-module test --exclude-module unittest --exclude-module tkinter --icon="[local do pelando.ico]" "[local do pelandorecentes.py]"
