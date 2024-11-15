@@ -14,5 +14,5 @@ python -m venv .venv
 3. Instale os pacotes necessários:
 pip install -r requirements.txt
 
-4. Build o executável:
-pyinstaller --noconfirm --windowed --onefile --strip --exclude-module test --exclude-module unittest --exclude-module tkinter --icon="[local do pelando.ico]" "[local do pelandorecentes.py]"
+4. Execute o programa Python:
+python pelandorecentes.py
